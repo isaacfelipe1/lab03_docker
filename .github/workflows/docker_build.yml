@@ -23,7 +23,7 @@ jobs:
           context: ./
           push: true
           dockerfile: ./Dockerfile
-          tags: isaacfelipe1/webacademy:Isaac
+          tags: isaacfelipe01/webacademy:Isaac
   deploy:
     runs-on: ubuntu-latest
     steps:
