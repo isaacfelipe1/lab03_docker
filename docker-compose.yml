@@ -1,7 +1,7 @@
 version: "3"
 services:
   app:
-    image: isaacfelipe1/webacademy:Isaac
+    image: isaacfelipe01/webacademy:Isaac
     container_name: webacademydemo
     restart: always
     ports:
